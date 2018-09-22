@@ -3,7 +3,7 @@
 
 cd /data/data/com.termux/files/home
 
-rm -rif POTTUSS-IS-NOT-CRAZY
-rm -rif UNBAN-POTTUSS
+rm -rif Chfita
+rm -rif Chita2
 
 rm -rif DdosM
