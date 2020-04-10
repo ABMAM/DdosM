@@ -1,9 +1,9 @@
-Powerfull Ddoss tool for newbs
+Powerfull Ddos tool for newbs
 
 usage :
 
 cd DdosM
 
-chmod +x ddosm.sh
+chmod +x ddosm.py
 
-bash ddosm.sh
+python2 ddosm.py
